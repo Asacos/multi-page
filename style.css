@@ -1,0 +1,20 @@
+body {
+	background-color:#eee;
+}
+
+.description {
+	color:lime;
+}
+
+.history {
+	color:grey;
+	background:silver;
+}
+
+#end {
+	color:red;
+}
+
+#begin {
+	color:green;
+}
